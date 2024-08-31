@@ -3,7 +3,7 @@ import React from "react"; // Add this line
 import Image from "next/image";
 import { Hero } from "./components/hero/Hero";
 import { Carousel } from "./components/carousel/Carousel";
-import { Footer } from "./components/footer/Footer";  
+  
 
 
 export default function Home() {
